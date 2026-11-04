@@ -1,6 +1,6 @@
 # aequoria-shell
 Frutiger Aero Dotfiles for Hyprland ( under development )
-I mean i'm trying to make a good rice and stop the distro hopping on linux. i'm getting the way in the NixOS declarative norma
+I mean i'm trying to make a good rice and stop the distro hopping on linux,
 and soon as i finish the first full release of Aequoria i start focusing on other projects like LARPOS or RetroLandYOU
 but i still got a life of a:
 divorced husband of an tall girl (me tall too);

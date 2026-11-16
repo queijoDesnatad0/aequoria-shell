@@ -20,7 +20,7 @@ PanelWindow {
     Rectangle {
         id: sidebar
         anchors.fill: parent
-        color: "transparent"
+        color: "#40000000"
 
         Rectangle {
             anchors {
@@ -29,14 +29,16 @@ PanelWindow {
                 bottom: parent.bottom
             }
 
-            width: 3
+            width: 2
 
-            gradient: Gradient {
-                orientation: Gradient.Horizontal
-                GradientStop { position: 0.0; color: "#FF000000" }
-                GradientStop { position: 0.5; color: "#80000000" }
-                GradientStop { position: 1.0; color: "#00000000" }
-            }
+            color: "#80FFFFFF"
+
+            //gradient: Gradient {
+            //    orientation: Gradient.Horizontal
+            //    GradientStop { position: 0.0; color: "#FF000000" }
+            //    GradientStop { position: 0.5; color: "#80000000" }
+            //    GradientStop { position: 1.0; color: "#00000000" }
+            //}
         }
 
         ColumnLayout {
